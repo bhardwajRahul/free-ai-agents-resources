@@ -78,6 +78,9 @@ A curated collection of **free and open-source resources** for learning and buil
 |--------|-------------|--------|
 | [Microsoft Developer – AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) | ⭐ **Best Structured Course**: 14 videos covering fundamentals, frameworks comparison, tool use, memory, planning, multi-agent basics, and deployment. Includes 1-hour compiled version | 14 videos |
 | [Kaggle – 5-Day AI Agents Intensive Course with Google](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE) | Free Google-backed intensive on building intelligent/autonomous AI systems with practical exercises | 5 videos |
+| [Complete AI Agents Course – Full Tutorial](https://www.youtube.com/watch?v=3GjE_YAs03s) | Long-form, end-to-end AI agents course covering fundamentals, agent architectures, tool calling, memory, planning, and practical implementations. Designed as a single comprehensive walkthrough for beginners who want depth without jumping between multiple videos. | 19h 05m |
+
+
 
 ### In-Depth Series
 
